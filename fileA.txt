@@ -1,3 +1,4 @@
 fileA
 e.	Testing approach 2
 i.	GIT 1 changes on A,D - commit 12 
+i.	GIT 1 changes on A,B  - commit 13 - this change was done on repo dev A

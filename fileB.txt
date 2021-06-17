@@ -1,1 +1,2 @@
 fileB
+i.	GIT 1 changes on A,B  - commit 13 - this change was done on repo dev A
