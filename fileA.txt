@@ -1,1 +1,3 @@
 fileA
+e.	Testing approach 2
+i.	GIT 1 changes on A,D - commit 12 
